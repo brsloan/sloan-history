@@ -936,6 +936,14 @@ window.GALLERY=[
   "h": 1800
  },
  {
+  "slug": "torrence-tavern-marker",
+  "group": "moms-side",
+  "cap": "The state marker at Langtree Road and Highway 115 in Mount Mourne, North Carolina, near the spot where Ann Torrence’s tavern stood. Erected 1939.",
+  "credit": "Photo by Cdtew, 2012, Wikimedia Commons, CC BY-SA 3.0",
+  "w": 1800,
+  "h": 1627
+ },
+ {
   "slug": "torrence-family-1962",
   "group": "moms-side",
   "cap": "Delores holding baby Brian, with Deanna, the toddler, and Bud Torrence, 1962.",
