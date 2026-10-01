@@ -5,29 +5,29 @@
 
   // Photos and story links for key people
   var PHOTO = {
-    '@P5@': 'uly-porch', '@P15@': 'uly-minnie-izora-1936', '@P16@': 'ellis-family-1940s', '@P17@': 'john-1953',
-    '@P84@': 'bessie-portrait', '@P86@': 'harold-marine-1952', '@P21@': 'jane-sloan-compton', '@P79@': 'jane-william-compton',
-    '@P123@': 'charles-sharp', '@P122@': 'sharp-couple', '@P300@': 'reavis-couple', '@P301@': 'reavis-couple',
-    '@P94@': 'gum-store', '@P93@': 'charles-clara-kids', '@P19@': 'grave-john-sloan-sc', '@P27@': 'grave-archibald',
-    '@P1@': 'photo-strip-couple', '@P2@': 'photo-strip-couple', '@P9@': 'wash-kettle', '@P98@': 'mary-schwartz-sloan',
-    '@P241@': 'james-sheets', '@P240@': 'james-lucy-sheets', '@P259@': 'crum-family', '@P514@': 'abraham-crum',
-    '@P191@': 'delores-nurse-1958', '@P192@': 'torrence-family-1962', '@P208@': 'delores-dorothy-1956', '@P143@': 'hodge-william', '@P142@': 'condon-christina', '@P96@': 'helen-hodge',
-    '@P41@': 'grave-robert-drennan', '@P80@': 'enfields', '@P102@': 'enfields', '@P22@': 'grave-martha',
-    '@P20@': 'grave-frances', '@P24@': 'grave-emily', '@P25@': 'grave-mary-ann', '@P14@': 'james-person-1925', '@P185@': 'uly-minnie-izora-1936'
+    '@I100064941113@': 'uly-porch', '@I100064947309@': 'uly-minnie-izora-1936', '@I100064948571@': 'ellis-family-1940s', '@I100065397684@': 'john-1953',
+    '@I100064951294@': 'bessie-portrait', '@I100064951232@': 'harold-marine-1952', '@I100064945621@': 'jane-sloan-compton', '@I100065674888@': 'jane-william-compton',
+    '@I100066782288@': 'charles-sharp', '@I100066782290@': 'sharp-couple', '@I100068080366@': 'reavis-couple', '@I100068080367@': 'reavis-couple',
+    '@I100066302482@': 'gum-store', '@I100066302483@': 'charles-clara-kids', '@I100064942348@': 'grave-john-sloan-sc', '@I100064943355@': 'grave-archibald',
+    '@I100064941110@': 'photo-strip-couple', '@I100064941111@': 'photo-strip-couple', '@I100064941909@': 'wash-kettle', '@I100065398374@': 'mary-schwartz-sloan',
+    '@I100066513565@': 'james-sheets', '@I100066513566@': 'james-lucy-sheets', '@I100186787235@': 'crum-family', '@I100186796006@': 'abraham-crum',
+    '@I100066467084@': 'delores-nurse-1958', '@I100066467002@': 'torrence-family-1962', '@I100066510742@': 'delores-dorothy-1956', '@I100066462275@': 'hodge-william', '@I100066462276@': 'condon-christina', '@I100066302687@': 'helen-hodge',
+    '@I100068413565@': 'grave-robert-drennan', '@I100065669734@': 'enfields', '@I100065676462@': 'enfields', '@I100064943959@': 'grave-martha',
+    '@I100064945620@': 'grave-frances', '@I100064943960@': 'grave-emily', '@I100064943958@': 'grave-mary-ann', '@I100066313795@': 'james-person-1925', '@I100066805327@': 'uly-minnie-izora-1936'
   };
   var NOTE = {
-    '@P9@': 'His parents as shown here are a strong hypothesis, not proven — see “A Soldier of ’76.”',
-    '@P19@': 'The birth year comes from his gravestone’s claim of 113 years, which is almost certainly exaggerated.',
-    '@P12@': 'That his father was the transported convict Gawan Pickering is plausible but unproven.',
-    '@P312@': 'His link to our Thomas Pickering is plausible but unproven.'
+    '@I100064941909@': 'His parents as shown here are a strong hypothesis, not proven — see “A Soldier of ’76.”',
+    '@I100064942348@': 'The birth year comes from his gravestone’s claim of 113 years, which is almost certainly exaggerated.',
+    '@I100066799665@': 'That his father was the transported convict Gawan Pickering is plausible but unproven.',
+    '@I100123129218@': 'His link to our Thomas Pickering is plausible but unproven.'
   };
   var STORY = {};
-  [['south-carolina.html', 'A Soldier of ’76', ['@P19@', '@P18@', '@P27@', '@P26@', '@P41@']],
-   ['pioneers.html', 'The farm near Hamilton', ['@P9@', '@P10@', '@P1@', '@P2@', '@P12@', '@P312@', '@P21@', '@P22@', '@P20@', '@P24@', '@P25@', '@P79@', '@P80@', '@P102@']],
-   ['sawmill.html', 'Uly’s sawmill', ['@P5@', '@P15@', '@P16@', '@P17@', '@P86@', '@P90@', '@P98@', '@P185@', '@P4@', '@P14@']],
-   ['cambria.html', 'Cambria', ['@P84@', '@P94@', '@P93@', '@P123@', '@P122@', '@P299@', '@P300@', '@P301@', '@P380@']],
-   ['moms-side.html', 'Mom’s side', ['@P190@', '@P191@', '@P192@', '@P209@', '@P208@', '@P237@', '@P241@', '@P240@', '@P259@', '@P514@', '@P485@', '@P491@', '@P490@']],
-   ['lowell.html', 'Lowell, Massachusetts', ['@P96@', '@P143@', '@P142@']]
+  [['south-carolina.html', 'A Soldier of ’76', ['@I100064942348@', '@I100064945020@', '@I100064943355@', '@I100064943447@', '@I100068413565@']],
+   ['pioneers.html', 'The farm near Hamilton', ['@I100064941909@', '@I100064941955@', '@I100064941110@', '@I100064941111@', '@I100066799665@', '@I100123129218@', '@I100064945621@', '@I100064943959@', '@I100064945620@', '@I100064943960@', '@I100064943958@', '@I100065674888@', '@I100065669734@', '@I100065676462@']],
+   ['sawmill.html', 'Uly’s sawmill', ['@I100064941113@', '@I100064947309@', '@I100064948571@', '@I100065397684@', '@I100064951232@', '@I100065395066@', '@I100065398374@', '@I100066805327@', '@I100064941112@', '@I100066313795@']],
+   ['cambria.html', 'Cambria', ['@I100064951294@', '@I100066302482@', '@I100066302483@', '@I100066782288@', '@I100066782290@', '@I100067719337@', '@I100068080366@', '@I100068080367@', '@I100068078831@']],
+   ['moms-side.html', 'Mom’s side', ['@I100066466728@', '@I100066467084@', '@I100066467002@', '@I100066510725@', '@I100066510742@', '@I100066511874@', '@I100066513565@', '@I100066513566@', '@I100186787235@', '@I100186796006@', '@I100124674366@', '@I100124737348@', '@I100124736984@']],
+   ['lowell.html', 'Lowell, Massachusetts', ['@I100066302687@', '@I100066462275@', '@I100066462276@']]
   ].forEach(function (s) { s[2].forEach(function (id) { STORY[id] = [s[0], s[1]]; }); });
 
   function esc(s) { return String(s || '').replace(/[&<>"]/g, function (c) { return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]; }); }
