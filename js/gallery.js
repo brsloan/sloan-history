@@ -2,7 +2,7 @@
 (function () {
   var G = window.GALLERY, groups = [['all', 'Everything'], ['farm', 'The Sloan farm'], ['pioneers', 'Pioneers'], ['cambria-family', 'Sharps & Gums'],
     ['cambria-place', 'Cambria'], ['county', 'Mulberry & county'], ['maps', 'Maps'], ['docs', 'Documents'], ['graves', 'Gravestones'],
-    ['sc', 'South Carolina'], ['moms-side', 'Mom’s side'], ['lowell', 'Lowell']];
+    ['sc', 'South Carolina'], ['grantham', 'Granthams'], ['torrence', 'Torrences'], ['lowell', 'Lowell']];
   var f = document.getElementById('filters'), grid = document.getElementById('grid'), cur = location.hash.slice(1) || 'all';
   function esc(s) { return String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/"/g, '&quot;'); }
   function draw() {

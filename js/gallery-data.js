@@ -697,7 +697,7 @@ window.GALLERY=[
  },
  {
   "slug": "sheets-family",
-  "group": "moms-side",
+  "group": "grantham",
   "cap": "James Henry Sheets (1853–1943) and Lucy Jane Crum Sheets (1856–1928) with their children, about 1905–10.",
   "credit": "",
   "w": 990,
@@ -705,7 +705,7 @@ window.GALLERY=[
  },
  {
   "slug": "crum-family",
-  "group": "moms-side",
+  "group": "grantham",
   "cap": "William M. Crum (1833–1913) and Elizabeth Kropff Crum with their children, about 1888–90.",
   "credit": "",
   "w": 1800,
@@ -713,7 +713,7 @@ window.GALLERY=[
  },
  {
   "slug": "abraham-crum",
-  "group": "moms-side",
+  "group": "grantham",
   "cap": "Abraham Crum (1803–1891), photographed in Frankfort in his eighties.",
   "credit": "Gilbert, Frankfort",
   "w": 1232,
@@ -721,7 +721,7 @@ window.GALLERY=[
  },
  {
   "slug": "crum-sisters",
-  "group": "moms-side",
+  "group": "grantham",
   "cap": "Four Crum sisters, about 1930 — three of them married Sheets brothers.",
   "credit": "Kuhel Studio, Frankfort",
   "w": 1096,
@@ -729,7 +729,7 @@ window.GALLERY=[
  },
  {
   "slug": "sheets-generations",
-  "group": "moms-side",
+  "group": "grantham",
   "cap": "Four generations of Sheets men, 1939: Verlin, Elby, baby Omar, and James.",
   "credit": "",
   "w": 537,
@@ -737,7 +737,7 @@ window.GALLERY=[
  },
  {
   "slug": "james-lucy-sheets",
-  "group": "moms-side",
+  "group": "grantham",
   "cap": "James Henry and Lucy Jane (Crum) Sheets, about 1915.",
   "credit": "",
   "w": 440,
@@ -745,7 +745,7 @@ window.GALLERY=[
  },
  {
   "slug": "james-sheets",
-  "group": "moms-side",
+  "group": "grantham",
   "cap": "James Henry Sheets with his pipe, 1930s.",
   "credit": "",
   "w": 567,
@@ -753,7 +753,7 @@ window.GALLERY=[
  },
  {
   "slug": "james-sheets-washing",
-  "group": "moms-side",
+  "group": "grantham",
   "cap": "James Henry Sheets washing up outdoors, 1930s.",
   "credit": "",
   "w": 484,
@@ -761,7 +761,7 @@ window.GALLERY=[
  },
  {
   "slug": "delores-1955",
-  "group": "moms-side",
+  "group": "grantham",
   "cap": "Delores J. Grantham, Logansport High School senior, 1955.",
   "credit": "Logansport High School “Tattler”",
   "w": 351,
@@ -769,7 +769,7 @@ window.GALLERY=[
  },
  {
   "slug": "roy-grantham-1949",
-  "group": "moms-side",
+  "group": "grantham",
   "cap": "“Train Kills Brakeman”: the death of George Grantham’s brother Roy, May 1949.",
   "credit": "Logansport Pharos-Tribune, 31 May 1949",
   "w": 1800,
@@ -777,7 +777,7 @@ window.GALLERY=[
  },
  {
   "slug": "grantham-1926",
-  "group": "moms-side",
+  "group": "grantham",
   "cap": "The Rev. George W. Grantham and his preaching daughter Hester in the Logansport paper, 1926.",
   "credit": "Logansport Pharos-Tribune, 11 May 1926",
   "w": 1176,
@@ -905,7 +905,7 @@ window.GALLERY=[
  },
  {
   "slug": "sheets-delores-1937",
-  "group": "moms-side",
+  "group": "grantham",
   "cap": "James Henry Sheets, eighty-three, holding his new great-granddaughter Delores Grantham at Beard, 17 August 1937.",
   "credit": "",
   "w": 1070,
@@ -913,7 +913,7 @@ window.GALLERY=[
  },
  {
   "slug": "buttercup-1948",
-  "group": "moms-side",
+  "group": "grantham",
   "cap": "Carolyn and Delores Grantham with Buttercup on the farm outside Logansport, 1948. The note along the bottom reads “Buttercup Heifer sold in April 194–”; the last digit runs off the edge.",
   "credit": "",
   "w": 1800,
@@ -921,7 +921,7 @@ window.GALLERY=[
  },
  {
   "slug": "delores-dorothy-1956",
-  "group": "moms-side",
+  "group": "grantham",
   "cap": "Delores and her mother, Dorothy Sheets Grantham, “at Charlie’s,” June 1956.",
   "credit": "",
   "w": 1759,
@@ -929,7 +929,7 @@ window.GALLERY=[
  },
  {
   "slug": "delores-nurse-1958",
-  "group": "moms-side",
+  "group": "grantham",
   "cap": "Delores Grantham’s nursing-school graduation portrait, 1958.",
   "credit": "",
   "w": 1453,
@@ -937,7 +937,7 @@ window.GALLERY=[
  },
  {
   "slug": "torrence-tavern-marker",
-  "group": "moms-side",
+  "group": "torrence",
   "cap": "The state marker at Langtree Road and Highway 115 in Mount Mourne, North Carolina, near the spot where Ann Torrence’s tavern stood. Erected 1939.",
   "credit": "Photo by Cdtew, 2012, Wikimedia Commons, CC BY-SA 3.0",
   "w": 1800,
@@ -945,7 +945,7 @@ window.GALLERY=[
  },
  {
   "slug": "torrence-family-1962",
-  "group": "moms-side",
+  "group": "torrence",
   "cap": "Delores holding baby Brian, with Deanna, the toddler, and Bud Torrence, 1962.",
   "credit": "",
   "w": 901,
