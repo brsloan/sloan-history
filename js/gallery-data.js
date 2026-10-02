@@ -674,10 +674,18 @@ window.GALLERY=[
  {
   "slug": "rev-war-stub",
   "group": "sc",
-  "cap": "Entry No. 236: ninety-four pounds sterling to “Mr. John Slown, late Private in Burns Troop, W. Hampton’s regiment, Sumter’s Brigade,” 1 October 1784.",
+  "cap": "Two 1784 treasury stubs. No. 184, Book L: £28 14s 1d to “Mr. John Sloan for Duty in the Militia Horse and for a Horse lost in the Service” — the entry the D.A.R. accepted for our John. No. 236, Book M: £94 to “Mr. John Slown, late Private in Burns Troop, W. Hampton’s regiment” — a different John Sloan, from Mecklenburg County, North Carolina.",
   "credit": "Stub Entries to Indents, Books L–N",
   "w": 861,
   "h": 627
+ },
+ {
+  "slug": "annals-sloan-scout",
+  "group": "sc",
+  "cap": "“A whig scout, commanded by Capt. John Sloan … The ball was no doubt aimed for Sloan.” Judge O’Neall’s story of the shooting at the Shop Spring on Bush River, Newberry, “shortly before the close of the Revolution.”",
+  "credit": "O’Neall, The Annals of Newberry (1859), pp. 168–169",
+  "w": 1132,
+  "h": 1800
  },
  {
   "slug": "sc-districts",
