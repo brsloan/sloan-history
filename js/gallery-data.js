@@ -840,6 +840,38 @@ window.GALLERY=[
   "h": 476
  },
  {
+  "slug": "pickering-marriage-1797",
+  "group": "pioneers",
+  "cap": "Middleton parish register, 27 November 1797: “Gowen Pickering &amp; Jane Allanson both of this Parish were married … by Banns.” He signed his own name; Jane made her mark.",
+  "credit": "North Yorkshire County Record Office, via Ancestry",
+  "w": 650,
+  "h": 340
+ },
+ {
+  "slug": "pickering-will-1787",
+  "group": "pioneers",
+  "cap": "The will of Thomas Pickering of Horcum, yeoman, 16 November 1787. It leaves a hundred pounds “unto my Second Son Gawin Pickering” and names his brothers Jerimiah and Thomas. The estate’s inventory counted 150 sheep.",
+  "credit": "Exchequer Court of York (Borthwick Institute)",
+  "w": 1075,
+  "h": 1521
+ },
+ {
+  "slug": "pickering-criminal-register",
+  "group": "pioneers",
+  "cap": "The Home Office criminal register for the York summer assizes of 1813. The second line is Gawen Pickering: “Sheep Stealing … Death.”",
+  "credit": "The National Archives HO 27, via Ancestry",
+  "w": 650,
+  "h": 480
+ },
+ {
+  "slug": "pickering-ticket-of-leave",
+  "group": "pioneers",
+  "cap": "Gawan Pickering’s ticket of leave, 3 October 1827: ship <i>Somersetshire</i>, native place Yorkshire, labourer, tried at York 31 July 1813, life; five feet seven, “fair ruddy,” hair “brown and bald,” eyes hazel. Allowed to remain in the district of Cooks River.",
+  "credit": "State Archives and Records Authority of New South Wales",
+  "w": 645,
+  "h": 855
+ },
+ {
   "slug": "photo-strip-couple",
   "group": "pioneers",
   "cap": "An unlabelled five-pose “penny photo” strip, pasted to heavy card, from the box of pictures saved from the farm. The clothes and the format date it to about 1898–1907. Probably John R. Sloan (1837–1907) and Elizabeth Pickering Sloan (1842–1922) — though Thomas J. and Emily Sloan Pickering are possible too.",
